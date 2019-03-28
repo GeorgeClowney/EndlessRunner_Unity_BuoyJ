@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 238f115d42838cc48baf35df3e389580
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabWall: {fileID: 1768173399290300303, guid: 7b4dca6ee4d61ba47bb6d8cdf54037eb,
+      type: 3}
+  - prefabPowerUp: {fileID: 9051684291177637621, guid: 6aef9eef558b1d843bb73e427c07281e,
+      type: 3}
+  - prefabPowerUp2: {fileID: 7212285715374133735, guid: 4c45abfdd87c94e4190e7b8b4bb07a17,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
